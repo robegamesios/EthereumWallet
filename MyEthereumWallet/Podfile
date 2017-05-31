@@ -7,4 +7,5 @@ target 'MyEthereumWallet' do
 
   # Pods for MyEthereumWallet
 	pod 'Geth', '1.6.2-unstable.9825'
+    pod 'Alamofire', '4.4.0'
 end
